@@ -46,7 +46,6 @@ Você vai preencher com as informações do projeto, então dar o nome do reposi
 
 Logo depois vai aparecer essa página um pouco cinza e confusa e com vários comandos (pode até perceber que alguns deles jpa usamos), mas o que você tem que fazer é bem simples, apenas copie o link que aparecer para você
 
-<img src="https://media.discordapp.net/attachments/831974152667398214/836828905859186708/unknown.png?width=1440&height=141">
 
 * Para passar o commit do meu repositório local (da minha máquina) para um repositório na plataforma do Github, usamos o `git remote add origin <link do repositório>`
 
@@ -96,9 +95,7 @@ Esse comando além de criar a branch já entra nela com o checkout, inclusive se
 
 * Para enviarmos agora que vai ser diferente. Vocês lembram que utilizávamos o `git push orgin main` né? Porém main era aquela branch principal. Agora então usaremos `git push origin botao`
 
-Agora se olharmos o nosso Github, veremos que tem 2 branches, a `main` e a `botao`
-
-<img src="https://media.discordapp.net/attachments/812313742192279612/836820670037622854/unknown.png">
+Agora se olharmos o nosso Github, veremos que tem 2 branches, a `main` e a `botao
 
 Vamos supor que eu ainda não tivesse terminado de desenvolver o botão, eu poderia continuar tranquilamente na branch `botao` até terminar!
 f
@@ -117,8 +114,6 @@ Pronto, agora tudo o que tinha de alteração na branch `botao` juntou com a `ma
 Como vocês podem baixar meu código?
 
 Sempre que você entrar em um repositório, seja o seu ou o de qualquer outra pessoa, terá esse botão `Code`, que quando você clica aparece um link:
-
-<img src="https://media.discordapp.net/attachments/812313742192279612/836823564513705994/unknown.png">
 
 * Você irá copiar esse link e levar ele lá pro nosso terminal
 
